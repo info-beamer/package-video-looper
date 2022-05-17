@@ -1,0 +1,17 @@
+{
+    "name": "Looper",
+    "options": [{
+        "title": "Video",
+        "ui_width": 8,
+        "name": "video",
+        "type": "resource",
+        "valid": ["video"],
+        "default": "example.mp4"
+    }, {
+        "title": "Audio",
+        "ui_width": 4,
+        "name": "audio",
+        "type": "boolean",
+        "default": false
+    }]
+}

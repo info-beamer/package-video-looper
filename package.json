@@ -1,0 +1,7 @@
+{
+    "name": "Video Looper",
+    "author": "Florian Wesch <fw@info-beamer.com>",
+    "desc": "Loop single video forever",
+    "repository": "https://github.com/info-beamer/package-video-looper",
+    "platforms": ["pi/epoch-1", "pi/epoch-2"]
+}
